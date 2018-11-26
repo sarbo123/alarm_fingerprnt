@@ -1,0 +1,1 @@
+alarm_fingerprints_64.exe -i 0.0002 -m 8 -g1 -r4 -w12 -l2048 -y 0.75 -e16 -f2047 -d2 < SA67_M01VV06.csv > log67-w12-1.txt
